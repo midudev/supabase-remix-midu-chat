@@ -1,0 +1,10 @@
+body {
+  color-scheme: dark;
+  color: #fff;
+  background: #222;
+  font-family: system-ui, sans-serif;
+}
+
+h1 {
+  color: #fff;
+}
